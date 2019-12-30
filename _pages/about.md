@@ -40,7 +40,7 @@ redirect_from:
 * [Юдин Евгений Борисович](https://yudinev.github.io) 
 * [Задорожный Владимир Николаевич](https://omgtu.ru/ecab/persons/?f=550),
 * [Бадрызлов Владимир Александрович](https://omgtu.ru/ecab/persons/?f=261),
-* [Юдина Мария Николаевна](https://omgtu.ru/ecab/persons/?f=2191),
+* [Юдина Мария Николаевна](https://MNYudina.github.io),
 * [Ольгина Инна Геннадьевна](https://omgtu.ru/ecab/persons/?f=805253),
 * [Пронин Игорь Валерьевич](http://portfolio-omgups.ru/aspirants/view/16717/),
 * [Пальцева Нина Александровна](https://omgtu.ru/ecab/persons/index.php?f=788323).
