@@ -62,6 +62,7 @@ redirect_from:
 
 ### Исследователи: 
 * [Хакимов Рустам Анварович](https://www.omgtu.ru/general_information/news/?ELEMENT_ID=26814),
-* [Задорожный Владимир Николаевич](https://omgtu.ru/ecab/persons/?f=550).
+* [Задорожный Владимир Николаевич](https://omgtu.ru/ecab/persons/?f=550),
+* [Доронина Мария Григорьевна](https://omgtu.ru/ecab/persons/?f=29623).
 
 
